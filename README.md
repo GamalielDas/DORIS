@@ -32,7 +32,19 @@ The step by step guide is provided  in installation-guide.txt File:
 ```bash
 pip install -r installation-guide.txt
 ```
+How to Install NLTK
+------------------
+1) Open Command Prompt
+2) ```bash
+     python```
+3) ```bash
+         >>> import nltk
+         >>> nltk.download
+         
 ![](nltk_data.PNG)
+
+4) Click on the Models Tab and select "punkt" and click on the Download Button
+5) Wait until the download process is complete
 
 HOW TO RUN THE PROJECT
 ----------------------
