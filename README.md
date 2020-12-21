@@ -39,7 +39,7 @@ How to Install NLTK
      python```
 3) ```bash
          >>> import nltk
-         >>> nltk.download
+         >>> nltk.download```
          
 ![](nltk_data.PNG)
 
@@ -73,3 +73,9 @@ DORIS Connector ( Social Media Message Tracker) :
 ```bash
 Note: Ensure That the Desktop Application is running as the Base AI Engine is laid on it 
 ```
+### Inside The Application
+
+- - > From The Settings Select The Language You Prefer
+- - > For Real Time Data Select the Real Time Data Option in the Top Left Corner
+Various Real Time Datas Such as Car Location, AC state, Fuel Level and Much more can be accessed through it
+
