@@ -1,4 +1,5 @@
 # D.O.R.I.S ( Artificial Intelligent System )
+![](
 
 CONTENTS OF THIS FILE
 ---------------------
@@ -40,3 +41,16 @@ The step by step guide is provided  in installation-guide.txt File:
 ```bash
 pip install -r installation-guide.txt
 ```
+
+HOW TO RUN THE PROJECT
+----------------------
+After Completing the downloads of all the dependencies and the installation procedures,
+The Next step i.e. the procedure to execute the project is :
+```bash
+python main.py
+```
+If You have both python version 2 or 3 pre-installed run :
+```bash
+python3 main.py
+```
+
