@@ -31,14 +31,14 @@ This repository contains REVISED code and associated files related to DORIS Arti
 REQUIREMENTS
 ------------
 Python Packages to Be installed are Listed in Requirements.txt File:
-```bash
+```javascript
 pip install -r requirements.txt
 ```
 
 INSTALLATION
 ------------
 The step by step guide is provided  in installation-guide.txt File:
-```bash
+```cmd
 pip install -r installation-guide.txt
 ```
 
