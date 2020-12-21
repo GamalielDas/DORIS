@@ -54,6 +54,10 @@ If You have both python version 2 or 3 pre-installed run :
 python3 main.py
 ```
 
-## ANDROID APPLICATION 
+# ANDROID APPLICATION 
 ----------------------
+
+Apart From The Desktop application which represents the In-Car Embedded AI system, we have also developed an Android App
+Which functions just like the desktop application:
+Link to the APK File : 
 
