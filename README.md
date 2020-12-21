@@ -1,4 +1,5 @@
 # D.O.R.I.S ( Artificial Intelligent System )
+![](DORIS.png)
 
 CONTENTS OF THIS FILE
 ---------------------
