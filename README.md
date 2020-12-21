@@ -67,8 +67,8 @@ Which functions just like the desktop application.
 Link to the APK Files  :
 
 ```bash
-DORIS ( Base AI ): 
-DORIS Connector ( Social Media Message Tracker) :
+DORIS ( Base AI ): Available In this Repository Named DORIS.apk
+DORIS Connector ( Social Media Message Tracker) :Available In this Repository Named Connector.apk 
 ```
 --> *Enable All The Permissions After Installation*
 ```bash
