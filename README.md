@@ -15,7 +15,7 @@ This repository contains REVISED code and associated files related to DORIS Arti
  
  * Full Source Code: Available In this Repository Named " **DORIS.zip** "
 
- * Detailed Product Video Module :
+ * Detailed Product Video Module : https://www.youtube.com/watch?v=p5FuM1xUKGI&feature=youtu.be (part 1)
 
  * For Bugs and Reports, Contact : innovationbeasts@gmail.com
 
