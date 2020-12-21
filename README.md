@@ -75,7 +75,7 @@ Note: Ensure That the Desktop Application is running as the Base AI Engine is la
 ```
 ### Inside The Application
 
-- -  From The Settings Select The Language You Prefer
-- -  For Real Time Data Select the Real Time Data Option in the Top Left Corner. 
+-  From The Settings Select The Language You Prefer
+-  For Real Time Data Select the Real Time Data Option in the Top Left Corner. 
 Various Real Time Datas Such as Car Location, AC state, Fuel Level and Much more can be accessed through it
 
