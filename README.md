@@ -13,7 +13,7 @@ D.O.R.I.S can never be overlooked
 
 This repository contains REVISED code and associated files related to DORIS Artificial Intelligent System
  
- * Full Source Code: 
+ * Full Source Code: Available In this Repository Named " **DORIS.zip** "
 
  * Detailed Product Video Module :
 
@@ -32,10 +32,12 @@ How to Install NLTK
 ------------------
 1) Open Command Prompt
 2) ```python
-     C:\user\xyz>python ```
+     C:\user\xyz>python 
+   ```
 3) ```bash
      >>> import nltk
-     >>> nltk.download ```
+     >>> nltk.download 
+   ```
          
 ![](nltk_data.PNG)
 
@@ -74,12 +76,10 @@ Note: Ensure That the Desktop Application is running as the Base AI Engine is la
 <img src="Android/BaseUI.png" height= "520px"> 
 <img src="Android/Language.png" height= "520px"> 
 <img src="Android/App.png" height= "520px">
-<img src="Android/BaseUI.png" height= "520px"> <img src="Android/BaseUI.png" height= "520px"> <img src="Android/BaseUI.png" height= "520px"> 
-<img src="Android/BaseUI.png" height= "520px"> 
-<img src="Android/BaseUI.png" height= "520px"> 
-![](Android/access.png) 
-![](Android/realtime.png)  ![](Android/realtime1.png)   ![](Android/realtime2.png) 
-![](Android/Connector.png) ![](Android/Nav.png) 
+<img src="Android/realtime1.png" height= "520px"> <img src="Android/access.png" height= "520px"> <img src="Android/realtime.png" height= "520px"> 
+<img src="Android/realtime2.png" height= "520px"> 
+<img src="Android/Nav.png" height= "520px"> 
+<img src="Android/Connector.png" height= "520px"> 
 -  From The Settings Select The Language You Prefer
 -  For Real Time Data Select the Real Time Data Option in the Top Left Corner. 
 Various Real Time Datas Such as Car Location, AC state, Fuel Level and Much more can be accessed through it
