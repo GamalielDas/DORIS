@@ -54,7 +54,7 @@ If You have both python version 2 or 3 pre-installed run :
 python3 main.py
 ```
 
-# ANDROID APPLICATION 
+# D.O.R.I.S ANDROID APPLICATION 
 ----------------------
 
 Apart From The Desktop application which represents the In-Car Embedded AI system, we have also developed an Android App
