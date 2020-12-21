@@ -25,20 +25,20 @@ This repository contains REVISED code and associated files related to DORIS Arti
 
  * Detailed Product Video Module :
 
- * For Bugs and Reports, Contact : 
+ * For Bugs and Reports, Contact : innovationbeasts@gmail.com
 
 
 REQUIREMENTS
 ------------
-Python Packages to Be installed are Listed in Requirements.txt File:
-```javascript
+Python Packages to Be installed are Listed in requirements.txt File:
+```bash
 pip install -r requirements.txt
 ```
 
 INSTALLATION
 ------------
 The step by step guide is provided  in installation-guide.txt File:
-```cmd
+```bash
 pip install -r installation-guide.txt
 ```
 
@@ -53,4 +53,7 @@ If You have both python version 2 or 3 pre-installed run :
 ```bash
 python3 main.py
 ```
+
+## ANDROID APPLICATION 
+----------------------
 
