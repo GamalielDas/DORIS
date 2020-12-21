@@ -19,20 +19,15 @@ This repository contains REVISED code and associated files related to DORIS Arti
 
  * For Bugs and Reports, Contact : innovationbeasts@gmail.com
 
+# INSTALLATION
 
 REQUIREMENTS
 ------------
 Python Packages to Be installed are Listed in requirements.txt File:
 ```bash
-pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
 
-INSTALLATION
-------------
-The step by step guide is provided  in installation-guide.txt File:
-```bash
-pip install -r installation-guide.txt
-```
 How to Install NLTK
 ------------------
 1) Open Command Prompt
@@ -76,7 +71,7 @@ Note: Ensure That the Desktop Application is running as the Base AI Engine is la
 ```
 ### Inside The Application
 
-<img src="Android/BaseUi.png" height= "120px"> ![](Android/Language.png)  ![](Android/App.png) ![](Android/access.png) 
+<img src="Android/BaseUI.png" height= "120px"> ![](Android/Language.png)  ![](Android/App.png) ![](Android/access.png) 
 ![](Android/realtime.png)  ![](Android/realtime1.png)   ![](Android/realtime2.png) 
 ![](Android/Connector.png) ![](Android/Nav.png) 
 -  From The Settings Select The Language You Prefer
