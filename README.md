@@ -80,6 +80,7 @@ Note: Ensure That the Desktop Application is running as the Base AI Engine is la
 <img src="Android/realtime2.png" height= "520px"> 
 <img src="Android/Nav.png" height= "520px"> 
 <img src="Android/Connector.png" height= "520px"> 
+
 -  From The Settings Select The Language You Prefer
 -  For Real Time Data Select the Real Time Data Option in the Top Left Corner. 
 Various Real Time Datas Such as Car Location, AC state, Fuel Level and Much more can be accessed through it
