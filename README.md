@@ -33,3 +33,10 @@ Python Packages to Be installed are Listed in Requirements.txt File:
 ```bash
 pip install -r requirements.txt
 ```
+
+INSTALLATION
+------------
+The step by step guide is provided  in installation-guide.txt File:
+```bash
+pip install -r installation-guide.txt
+```
