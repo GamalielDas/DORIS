@@ -1,4 +1,5 @@
 # D.O.R.I.S ( Artificial Intelligent System )
+
 ![](DORIS.png)
 
 INTRODUCTION
@@ -35,11 +36,11 @@ pip install -r installation-guide.txt
 How to Install NLTK
 ------------------
 1) Open Command Prompt
-2) ```bash
-     python```
+2) ```python
+     C:\user\xyz>python```
 3) ```bash
-         >>> import nltk
-         >>> nltk.download```
+     >>> import nltk
+     >>> nltk.download```
          
 ![](nltk_data.PNG)
 
@@ -51,11 +52,11 @@ HOW TO RUN THE PROJECT
 After Completing the downloads of all the dependencies and the installation procedures,
 The Next step i.e. the procedure to execute the project is :
 ```bash
-python main.py
+python run.py
 ```
 If You have both python version 2 or 3 pre-installed run :
 ```bash
-python3 main.py
+python3 run.py
 ```
 
 # D.O.R.I.S ANDROID APPLICATION 
