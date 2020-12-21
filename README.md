@@ -37,10 +37,10 @@ How to Install NLTK
 ------------------
 1) Open Command Prompt
 2) ```python
-     C:\user\xyz>python```
+     C:\user\xyz>python ```
 3) ```bash
      >>> import nltk
-     >>> nltk.download```
+     >>> nltk.download ```
          
 ![](nltk_data.PNG)
 
