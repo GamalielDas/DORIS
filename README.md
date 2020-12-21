@@ -1,15 +1,6 @@
 # D.O.R.I.S ( Artificial Intelligent System )
 ![](DORIS.png)
 
-CONTENTS OF THIS FILE
----------------------
-
- * Introduction
- * Requirements
- * Installation
- * Configuration
-
-
 INTRODUCTION
 -----------
 D.O.R.I.S is an Innovation of The Future which has the optimum capability to create a revolutionary impact in Technological World undoubtedly .
@@ -58,6 +49,14 @@ python3 main.py
 ----------------------
 
 Apart From The Desktop application which represents the In-Car Embedded AI system, we have also developed an Android App
-Which functions just like the desktop application:
-Link to the APK File : 
+Which functions just like the desktop application.
+Link to the APK Files  :
 
+```bash
+DORIS ( Base AI ): 
+DORIS Connector ( Social Media Message Tracker) :
+```
+*Enable All The Permissions After Installation*
+```bash
+Note: Ensure That the Desktop Application is running as the Base AI Engine is laid on it 
+```
