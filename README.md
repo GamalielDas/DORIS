@@ -28,6 +28,6 @@ This repository contains REVISED code and associated files related to DORIS Arti
 REQUIREMENTS
 ------------
 Python Packages to Be installed are Listed in Requirements.txt File:
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
