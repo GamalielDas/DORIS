@@ -75,7 +75,8 @@ DORIS Connector ( Social Media Message Tracker) :
 Note: Ensure That the Desktop Application is running as the Base AI Engine is laid on it 
 ```
 ### Inside The Application
-![](Android/BaseUI.png)  ![](Android/Language.png)  ![](Android/App.png) ![](Android/access.png) 
+
+<img src="Android/BaseUi.png" height= "120px"> ![](Android/Language.png)  ![](Android/App.png) ![](Android/access.png) 
 ![](Android/realtime.png)  ![](Android/realtime1.png)   ![](Android/realtime2.png) 
 ![](Android/Connector.png) ![](Android/Nav.png) 
 -  From The Settings Select The Language You Prefer
