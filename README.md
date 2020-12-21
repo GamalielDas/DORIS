@@ -71,7 +71,13 @@ Note: Ensure That the Desktop Application is running as the Base AI Engine is la
 ```
 ### Inside The Application
 
-<img src="Android/BaseUI.png" height= "120px"> ![](Android/Language.png)  ![](Android/App.png) ![](Android/access.png) 
+<img src="Android/BaseUI.png" height= "520px"> 
+<img src="Android/Language.png" height= "520px"> 
+<img src="Android/App.png" height= "520px">
+<img src="Android/BaseUI.png" height= "520px"> <img src="Android/BaseUI.png" height= "520px"> <img src="Android/BaseUI.png" height= "520px"> 
+<img src="Android/BaseUI.png" height= "520px"> 
+<img src="Android/BaseUI.png" height= "520px"> 
+![](Android/access.png) 
 ![](Android/realtime.png)  ![](Android/realtime1.png)   ![](Android/realtime2.png) 
 ![](Android/Connector.png) ![](Android/Nav.png) 
 -  From The Settings Select The Language You Prefer
