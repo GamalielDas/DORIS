@@ -32,7 +32,7 @@ The step by step guide is provided  in installation-guide.txt File:
 ```bash
 pip install -r installation-guide.txt
 ```
-![](nltk_data.png)
+![](nltk_data.PNG)
 
 HOW TO RUN THE PROJECT
 ----------------------
