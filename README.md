@@ -56,7 +56,7 @@ Link to the APK Files  :
 DORIS ( Base AI ): 
 DORIS Connector ( Social Media Message Tracker) :
 ```
-*Enable All The Permissions After Installation*
+--> *Enable All The Permissions After Installation*
 ```bash
 Note: Ensure That the Desktop Application is running as the Base AI Engine is laid on it 
 ```
