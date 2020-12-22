@@ -116,8 +116,9 @@ Apart From The Desktop application which represents the In-Car Embedded AI syste
 Which functions just like the desktop application.
 Link to the APK Files  :
 
+
+**DORIS ( Base AI Apk )**: https://bit.ly/38tejpY
 ```bash
-DORIS ( Base AI ): https://bit.ly/38tejpY
 DORIS Connector ( Social Media Message Tracker) :Available In this Repository Named Connector.apk 
 ```
 --> *Enable All The Permissions After Installation*
