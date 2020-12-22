@@ -98,12 +98,13 @@ python3 run.py
 Note : If The Heavy Version Doesn't work on Your Computer , Checkout with The DORIS Lite Version
 
 # D.O.R.I.S Desktop Application Snapshots:
-![](Desktop/Base UI.png)
-![](Desktop/BASE ARCHITECTURE.png)
-![](Desktop/Realtime Stimulation.png)
-![](Desktop/Code Screenshot.png)
+
+![](Desktop/"Base UI.png")
+![](Desktop/"BASE ARCHITECTURE.png")
+![](Desktop/"Realtime Stimulation.png")
+![](Desktop/"Code Screenshot.png")
 ![](Desktop/Stimulator.png)
-![](Desktop/Translator Simulation.png)
+![](Desktop/"Translator Simulation.png")
 
 
 
