@@ -97,8 +97,19 @@ python3 run.py
 ```
 Note : If The Heavy Version Doesn't work on Your Computer , Checkout with The DORIS Lite Version
 
+# D.O.R.I.S Desktop Application Snapshots:
+![](Desktop/Base UI.png)
+![](Desktop/BASE ARCHITECTURE.png)
+![](Desktop/Realtime Stimulation.png)
+![](Desktop/Code Screenshot.png)
+![](Desktop/Stimulator.png)
+![](Desktop/Translator Simulation.png)
+
+
+
+
 # D.O.R.I.S ANDROID APPLICATION 
-----------------------
+
 
 Apart From The Desktop application which represents the In-Car Embedded AI system, we have also developed an Android App
 Which functions just like the desktop application.
