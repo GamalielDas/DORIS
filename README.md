@@ -21,9 +21,10 @@ This repository contains REVISED code and associated files related to DORIS Arti
  
  # D.O.R.I.S Lite ( Artificial Intelligent System )
  
-            Keeping it in the mind that the Base Version of the AI we have provided is heavily loaded and may not function properly in some computers or laptops,
-     We Have also developed a Lite Version which can operate smoothly in any computer , for the convenience of the developers at honda.
-     The Lite Version also facilitates all the functionalities just as the Mainstream DORIS !!
+            Keeping it in the mind that the Base Version of the AI we have provided is heavily loaded 
+            and may not function properly in some computers or laptops,We Have also developed a Lite Version which 
+            can operate smoothly in any computer , for the convenience of the developers at honda.
+            The Lite Version also facilitates all the functionalities just as the Mainstream DORIS !!
  
  * Full Source Code: Available In this Repository Named " **DORIS-Lite.zip** "
 
@@ -38,13 +39,13 @@ This repository contains REVISED code and associated files related to DORIS Arti
   If You Prefer the Lite Version 
   
   ``` bash
-     * Full Source Code: Available In this Repository Named " **DORIS-Lite.zip** "
+     * Full Source Code: Available In this Repository Named " DORIS-Lite.zip "
   ```
    
   If You're Ok With the Mainstream Version 
   
   ``` bash  
-   * Full Source Code: Available In this Repository Named " **DORIS.zip** "
+   * Full Source Code: Available In this Repository Named " DORIS.zip "
   ```
 
 REQUIREMENTS
