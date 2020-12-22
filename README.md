@@ -26,7 +26,7 @@ This repository contains REVISED code and associated files related to DORIS Arti
             can operate smoothly in any computer , for the convenience of the developers at honda.
             The Lite Version also facilitates all the functionalities just as the Mainstream DORIS !!
  
- * Full Source Code: Available In this Repository Named " **DORIS-Lite.zip** "
+ * Full Source Code: Available In this Repository Named " **DORIS-Lite.rar** "
 
     
 
@@ -39,7 +39,7 @@ This repository contains REVISED code and associated files related to DORIS Arti
   If You Prefer the Lite Version 
   
   ``` bash
-     * Full Source Code: Available In this Repository Named " DORIS-Lite.zip "
+     * Full Source Code: Available In this Repository Named " DORIS-Lite.rar "
   ```
    
   If You're Ok With the Mainstream Version 
