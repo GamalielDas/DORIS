@@ -85,8 +85,8 @@ The snippet to execute the project is :
   python DORIS_LITE_Version.py (or) python3 DORIS_LITE_Version.py
 ```
 
-For Mainstream Heavy Loaded  Version :
-  - -  -  -   -   -   -  -  -   -
+### For Mainstream Heavy Loaded  Version :
+    - -  -  -   -   -   -  -  -   -
 
 The snippet to execute the project is :
 ```bash
