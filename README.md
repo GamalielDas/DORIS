@@ -18,12 +18,39 @@ This repository contains REVISED code and associated files related to DORIS Arti
  * Detailed Product Video Module : https://www.youtube.com/watch?v=p5FuM1xUKGI&feature=youtu.be (part 1)
 
  * For Bugs and Reports, Contact : innovationbeasts@gmail.com
+ 
+ # D.O.R.I.S Lite ( Artificial Intelligent System )
+ 
+            Keeping it in the mind that the Base Version of the AI we have provided is heavily loaded and may not function properly in some computers or laptops,
+     We Have also developed a Lite Version which can operate smoothly in any computer , for the convenience of the developers at honda.
+     The Lite Version also facilitates all the functionalities just as the Mainstream DORIS !!
+ 
+ * Full Source Code: Available In this Repository Named " **DORIS-Lite.zip** "
+
+    
 
 # INSTALLATION
+
+  * The Installation Procedures for both the Mainstream DORIS as well as the DORIS Lite Version is the same. 
+  
+  First of all Download The Zip Files :
+  
+  If You Prefer the Lite Version 
+  
+  ``` bash
+     * Full Source Code: Available In this Repository Named " **DORIS-Lite.zip** "
+  ```
+   
+  If You're Ok With the Mainstream Version 
+  
+  ``` bash  
+   * Full Source Code: Available In this Repository Named " **DORIS.zip** "
+  ```
 
 REQUIREMENTS
 ------------
 Python Packages to Be installed are Listed in requirements.txt File:
+
 ```bash
   pip install -r requirements.txt
 ```
@@ -44,10 +71,23 @@ How to Install NLTK
 4) Click on the Models Tab and select "punkt" and click on the Download Button
 5) Wait until the download process is complete
 
-HOW TO RUN THE PROJECT
-----------------------
+# HOW TO RUN THE PROJECT
+  ----------------------
 After Completing the downloads of all the dependencies and the installation procedures,
-The Next step i.e. the procedure to execute the project is :
+
+For **DORIS Lite Version** : 
+----------------------------
+
+The snippet to execute the project is :
+
+```bash
+  python DORIS_LITE_Version.py (or) python3 DORIS_LITE_Version.py
+```
+
+For Mainstream Heavy Loaded  Version :
+  - -  -  -   -   -   -  -  -   -
+
+The snippet to execute the project is :
 ```bash
 python run.py
 ```
@@ -55,6 +95,7 @@ If You have both python version 2 or 3 pre-installed run :
 ```bash
 python3 run.py
 ```
+Note : If The Heavy Version Doesn't work on Your Computer , Checkout with The DORIS Lite Version
 
 # D.O.R.I.S ANDROID APPLICATION 
 ----------------------
