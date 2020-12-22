@@ -86,7 +86,6 @@ The snippet to execute the project is :
 ```
 
 ### For Mainstream Heavy Loaded  Version :
-    - -  -  -   -   -   -  -  -   -
 
 The snippet to execute the project is :
 ```bash
